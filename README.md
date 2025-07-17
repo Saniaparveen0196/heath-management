@@ -45,5 +45,8 @@ Prescriptions are linked to specific appointments
 <img width="956" height="412" alt="a" src="https://github.com/user-attachments/assets/384ca9af-ab2d-46f7-80fe-b139514dc96c" />
 <img width="954" height="443" alt="b" src="https://github.com/user-attachments/assets/d6dce84c-48ee-49dd-8e0c-16eff6484e67" />
 <img width="927" height="429" alt="d" src="https://github.com/user-attachments/assets/3cf61f71-c1e5-45e0-a7ca-6ec50b662b9d" />
+<img width="948" height="287" alt="e" src="https://github.com/user-attachments/assets/fa129127-3f0a-4758-8bc5-214e745a20eb" />
+<img width="942" height="434" alt="f" src="https://github.com/user-attachments/assets/68293dda-a993-4890-bece-d03aded0427d" />
+
 
 
