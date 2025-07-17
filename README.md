@@ -43,4 +43,8 @@ Prescriptions:
 Doctors can add prescriptions to completed appointments
 Prescriptions are linked to specific appointments
 <img width="956" height="412" alt="a" src="https://github.com/user-attachments/assets/384ca9af-ab2d-46f7-80fe-b139514dc96c" />
+<img width="954" height="443" alt="b" src="https://github.com/user-attachments/assets/d6dce84c-48ee-49dd-8e0c-16eff6484e67" />
+<img width="955" height="<img width="927" height="429" alt="d" src="https://github.com/user-attachments/assets/b13b96ae-f5ba-49c8-a1bf-cf5a02510e58" />
+<img width="927" height="429" alt="d" src="https://github.com/user-attachments/assets/3cf61f71-c1e5-45e0-a7ca-6ec50b662b9d" />
+
 
